@@ -1,0 +1,22 @@
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\Grafica de árboles.exe
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\Grafica de árboles.deps.json
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\Grafica de árboles.runtimeconfig.json
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\Grafica de árboles.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\Grafica de árboles.pdb
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.GeneratedMSBuildEditorConfig.editorconfig
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.AssemblyInfoInputs.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.AssemblyInfo.cs
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.csproj.CoreCompileInputs.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.sourcelink.json
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\refint\Grafica de árboles.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.pdb
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.genruntimeconfig.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\ref\Grafica de árboles.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\System.Drawing.Common.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\System.Private.Windows.Core.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\System.Private.Windows.GdiPlus.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\bin\Debug\net10.0\runtimes\win\lib\net10.0\Microsoft.Win32.SystemEvents.dll
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica de árboles.csproj.AssemblyReference.cache
+C:\ESTRUCTURA DE DATOS CPE\CPE-ESTRUCTURA-DE-DATOS\CPE-ESTRUCTURA-DE-DATOS\Grafica de árboles\obj\Debug\net10.0\Grafica .42F25553.Up2Date
